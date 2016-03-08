@@ -1,0 +1,11 @@
+Time of 1000 insertions with bad key: 6.4ms
+Time of 10000 insertions with bad key: 871.2ms
+Time of 20000 insertions with bad key: 3723.3ms
+Time of 30000 insertions with bad key: 8570.5ms
+Time of 40000 insertions with bad key: 15520.3ms
+Time of 50000 insertions with bad key: 26602.2ms
+Time of 60000 insertions with bad key: 43454.6ms
+Time of 70000 insertions with bad key: 65186.0ms
+Time of 80000 insertions with bad key: 100603.5ms
+Time of 90000 insertions with bad key: 156270.4ms
+Time of 100000 insertions with bad key: 191694.9ms

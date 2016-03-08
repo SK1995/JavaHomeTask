@@ -1,0 +1,11 @@
+Time of 1000 insertions with good key: 0.6ms
+Time of 10000 insertions with good key: 1.7ms
+Time of 20000 insertions with good key: 1.6ms
+Time of 30000 insertions with good key: 2.0ms
+Time of 40000 insertions with good key: 1.8ms
+Time of 50000 insertions with good key: 2.6ms
+Time of 60000 insertions with good key: 2.9ms
+Time of 70000 insertions with good key: 5.6ms
+Time of 80000 insertions with good key: 5.6ms
+Time of 90000 insertions with good key: 4.7ms
+Time of 100000 insertions with good key: 5.1ms
