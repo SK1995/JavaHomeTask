@@ -29,7 +29,6 @@ public class HashMapBenchamrker {//Класс, нужный для замеро�
         int averageTime =0;
         for(int i=0; i<iterationsCount; i++) {
             averageTime+=computeInsertionsTime(insertionsCount);
-            System.out.println("Index " + i + " IC "+ insertionsCount+" AVG "+ averageTime);
             map.clear();
         }
         return  (double)averageTime/iterationsCount;
